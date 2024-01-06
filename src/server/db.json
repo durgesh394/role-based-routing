@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "rZPJxOd9-NqRGvfHzQS0v",
+      "title": "dffdsf",
+      "isDeleted": false
+    },
+    {
+      "id": "cJrfWC_INfvo9B9X3Ygi1",
+      "title": "s",
+      "isDeleted": false
+    },
+    {
+      "id": "qQRC7wKyhD7rYrAdSeR-v",
+      "title": "ssdsd",
+      "isDeleted": false
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
